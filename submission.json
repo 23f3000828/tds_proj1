@@ -1,0 +1,7 @@
+{
+  "prompt": "An emotional editorial illustration of planet Earth shaped like a melting clock made of ice, water dripping into rising ocean waves below, symbolizing climate change and time running out, cinematic lighting, dramatic shadows, minimalist composition, magazine cover style, highly detailed. Negative prompt: bar chart, pie chart, graph, axis labels, infographic",
+  "model": "DALL·E 3",
+  "dataset_name": "NASA Global Temperature Data",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Global temperatures are rising rapidly, showing the planet is warming faster each decade."
+}
